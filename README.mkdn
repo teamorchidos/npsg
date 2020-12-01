@@ -8,7 +8,7 @@ Getting started
 ---------------
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init --depth 1 -u git://github.com/teamorchidos/Orchidos.git -b lineage-17.1
+repo init --depth 1 -u git://github.com/teamorchidos/npsg.git -b lineage-17.1
 ```
 Then to sync up:
 ```
