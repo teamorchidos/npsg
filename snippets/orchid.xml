@@ -3,14 +3,19 @@
     <remote name="teamorchidos"
             fetch="https://github.com/teamorchidos" />
     
-    <!-- Add settings -->
+    <remote name="Aghora7"
+            fetch="https://github.com/Aghora7" />
+    
+    <!-- add things orchidteamtest -->
     <remove-project path="packages/apps/Settings" name="LineageOS/android_packages_apps_Settings" groups="pdk-fs" />
-    <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="teamorchidos"/>
+    <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="Aghora7"/>
+    
+    <!-- add launchers -->
     <project path="vendor/oplauncher" name="android_vendor_oplauncher" remote="teamorchidos" revision="Orchidos" />
     <project path="vendor/oneuilauncher" name="android_vendor_oneuilauncher" remote="teamorchidos" revision="Orchidos" />
     <project path="vendor/prebuilts" name="android_vendor_prebuilts" remote="teamorchidos" revision="Orchidos" />
-    <project path="vendor/microg" name="android_vendor_microg" remote="teamorchidos" revision="Orchidos" />
-
+    
+    <!-- remove things lineage -->
     <remove-project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
     <remove-project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
     <remove-project path="lineage/charter" name="LineageOS/charter" groups="infra" revision="master" />
