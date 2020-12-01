@@ -1,0 +1,37 @@
+ORCHIDOS by teamorchidos
+===========
+# commercial KAcTuS version
+
+work in progress
+
+Getting started
+---------------
+To initialize your local repository using the LineageOS trees, use a command like this:
+```
+repo init --depth 1 -u git://github.com/teamorchidos/Orchidos.git -b lineage-17.1
+```
+Then to sync up:
+```
+repo sync -c -d --force-sync -j$(nproc --all)
+
+```
+Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
+
+# Note check my page for a choice of apps, gapps, microg and foss apps and instructions how to install
+
+THIS ROM IS BASED ON LINEAGE AND LIGHTNINGFASTROM
+
+Forked from this amazing rom LIGHTNINGFASTROM
+https://github.com/LightningFastRom
+
+A thank you to all other devs and hobbiests
+
+Noted people and credits for used work will appear in rom credits
+
+My channels
+
+https://t.me/teammodmiirequests
+
+https://t.me/tEaMMODmiitulip
+
+https://t.me/rn6p_brasil_ported_roms
