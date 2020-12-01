@@ -696,6 +696,7 @@
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/orchid.xml" />
+  <include name="snippets/gapps.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 </manifest>
