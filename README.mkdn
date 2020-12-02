@@ -1,4 +1,4 @@
-ORCHIDOS by teamorchidos
+NPSG by teamorchidos
 ===========
 # commercial KAcTuS version
 
@@ -19,10 +19,16 @@ Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instru
 
 # Note check my page for a choice of apps, gapps, microg and foss apps and instructions how to install
 
-THIS ROM IS BASED ON LINEAGE AND LIGHTNINGFASTROM
+THIS ROM IS BASED ON LINEAGE
 
-Forked from this amazing rom LIGHTNINGFASTROM
-https://github.com/LightningFastRom
+thank you Aghora7
+
+https://github.com/Aghora7
+
+
+and
+
+https://github.com/herobuxx
 
 A thank you to all other devs and hobbiests
 
